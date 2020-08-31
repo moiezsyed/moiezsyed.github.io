@@ -3,11 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://moiezsyed.github.io/project/watersupply-c&#43;&#43;/</loc>
+  </url>
+  
+  <url>
     <loc>https://moiezsyed.github.io/authors/</loc>
   </url>
   
   <url>
+    <loc>https://moiezsyed.github.io/project/mesh-generation/</loc>
+  </url>
+  
+  <url>
     <loc>https://moiezsyed.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://moiezsyed.github.io/tag/come/</loc>
+  </url>
+  
+  <url>
+    <loc>https://moiezsyed.github.io/project/reissner-mindlin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://moiezsyed.github.io/project/nse-solver/</loc>
   </url>
   
   <url>
@@ -20,6 +40,14 @@
   
   <url>
     <loc>https://moiezsyed.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://moiezsyed.github.io/tag/programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://moiezsyed.github.io/project/</loc>
   </url>
   
   <url>
@@ -36,6 +64,10 @@
   
   <url>
     <loc>https://moiezsyed.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://moiezsyed.github.io/project/vawt/</loc>
   </url>
   
 </urlset>
