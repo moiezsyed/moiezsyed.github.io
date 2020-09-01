@@ -6,4 +6,4 @@
 This website was created using [Academic Kickstart](https://github.com/wowchemy/starter-academic). There are additional tutorials that can be followed by checking out their [documentation](https://wowchemy.com/docs/).
 
 ### Link to website
-This website can be accessed by clicking [here](https://moiezsyed.github.io){:target="_blank"} or typing `https://moiezsyed.github.io` in your browser of choice.
+This website can be accessed by clicking [here](https://moiezsyed.github.io) or typing `https://moiezsyed.github.io` in your browser of choice.
